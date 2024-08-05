@@ -1,0 +1,65 @@
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\appsettings.Development.json
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\appsettings.json
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\RestApiTest.exe
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\RestApiTest.deps.json
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\RestApiTest.runtimeconfig.json
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\RestApiTest.dll
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\RestApiTest.pdb
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+N:\sousProjets\MyTools\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.csproj.AssemblyReference.cache
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.GeneratedMSBuildEditorConfig.editorconfig
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.AssemblyInfoInputs.cache
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.AssemblyInfo.cs
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.csproj.CoreCompileInputs.cache
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.MvcApplicationPartsAssemblyInfo.cs
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.MvcApplicationPartsAssemblyInfo.cache
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.sourcelink.json
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets.build.json
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets.development.json
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.RestApiTest.Microsoft.AspNetCore.StaticWebAssets.props
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.build.RestApiTest.props
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestApiTest.props
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestApiTest.props
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\staticwebassets.pack.json
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\scopedcss\bundle\RestApiTest.styles.css
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiT.8C25C80D.Up2Date
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.dll
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\refint\RestApiTest.dll
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.pdb
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\RestApiTest.genruntimeconfig.cache
+N:\sousProjets\MyTools\RestApiTest\obj\Debug\net6.0\ref\RestApiTest.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\appsettings.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\RestApiTest.exe
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\RestApiTest.deps.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\RestApiTest.runtimeconfig.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\RestApiTest.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\RestApiTest.pdb
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.csproj.AssemblyReference.cache
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.AssemblyInfoInputs.cache
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.AssemblyInfo.cs
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.RestApiTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.build.RestApiTest.props
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestApiTest.props
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestApiTest.props
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\scopedcss\bundle\RestApiTest.styles.css
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiT.8C25C80D.Up2Date
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\refint\RestApiTest.dll
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.pdb
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\RestApiTest.genruntimeconfig.cache
+C:\Users\Frank Djenou\Desktop\RestApiTest\RestApiTest\obj\Debug\net6.0\ref\RestApiTest.dll
