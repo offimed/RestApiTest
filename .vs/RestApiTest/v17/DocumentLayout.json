@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "N:\\Dvlp\\RestApiTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:controllers\\utilisateurcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\restapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:restapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\models\\classes\\uclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:models\\classes\\uclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\models\\data\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:models\\data\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|n:\\dvlp\\restapitest\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A1512CF-62B6-485F-BAF1-4371FF9B1F72}|RestApiTest.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "N:\\Dvlp\\RestApiTest\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-05T08:42:59.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RestApiTest.csproj",
-              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\RestApiTest.csproj",
-              "RelativeDocumentMoniker": "RestApiTest.csproj",
-              "ToolTip": "N:\\Dvlp\\RestApiTest\\RestApiTest.csproj",
-              "RelativeToolTip": "RestApiTest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-05T08:42:52.707Z",
+              "Title": "uClasse.cs",
+              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Models\\classes\\uClasse.cs",
+              "RelativeDocumentMoniker": "Models\\classes\\uClasse.cs",
+              "ToolTip": "N:\\Dvlp\\RestApiTest\\Models\\classes\\uClasse.cs",
+              "RelativeToolTip": "Models\\classes\\uClasse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:06:45.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
-              "ToolTip": "N:\\Dvlp\\RestApiTest\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "Controllers\\PatientController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAxwBgAAAAnAAAA",
+              "Title": "UtilisateurController.cs",
+              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Controllers\\UtilisateurController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtilisateurController.cs",
+              "ToolTip": "N:\\Dvlp\\RestApiTest\\Controllers\\UtilisateurController.cs",
+              "RelativeToolTip": "Controllers\\UtilisateurController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T10:18:17.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -89,31 +68,21 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-02T10:43:30.869Z"
+              "WhenOpened": "2024-08-02T10:43:30.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "N:\\Dvlp\\RestApiTest\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Models\\Data\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\Utilisateur.cs",
+              "ToolTip": "N:\\Dvlp\\RestApiTest\\Models\\Data\\Utilisateur.cs",
+              "RelativeToolTip": "Models\\Data\\Utilisateur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:41:39.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "N:\\Dvlp\\RestApiTest\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Models\\Patient.cs",
-              "ToolTip": "N:\\Dvlp\\RestApiTest\\Models\\Patient.cs",
-              "RelativeToolTip": "Models\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T10:15:16.304Z"
+              "WhenOpened": "2024-08-02T10:15:16.304Z",
+              "EditorCaption": ""
             }
           ]
         }

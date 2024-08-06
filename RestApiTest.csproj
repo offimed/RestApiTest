@@ -1,13 +1,23 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="offimed.tools.contracts">
+      <HintPath>..\ContractLib\ContractLib\bin\Debug\offimed.tools.contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="offimed.tools.global">
+      <HintPath>..\GlobalTools\GlobalTools\GlobalTools\bin\Debug\net6.0-windows\offimed.tools.global.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
